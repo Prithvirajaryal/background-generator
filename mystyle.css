@@ -1,0 +1,68 @@
+
+body {
+	float: center;
+	width: 50%;
+	border: 2px solid #444;
+	padding: 15px;
+	padding-right: 50px;
+	margin-right: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="date"] {
+	border: 2px solid #000;
+	margin: 10px;
+	padding: 10px;
+	width: 100%;
+}
+
+.button {
+	border: 3px solid #333;
+	background-color: #999;
+	border-radius: 5px;
+	padding: 10px 2em;
+	font-weight: bold;
+	font-size: 1.1em;
+	color: #fff;
+}
+
+.button:hover {
+	background-color: #666;
+}
+
+
+
+/*
+.container {
+	background-color: rgba(100, 100, 100, .3);
+	display: inline-block;
+	border: 1px solid blue;
+	width: auto;
+	padding: 10px;
+}
+hr {
+	width: 80%;
+	color: navy blue;
+}
+input {
+	margin: 10px;
+	padding:3px;
+	width: 200px;
+	height: 20px;
+	margin-left: 20px;
+	border-radius: 5px;
+}
+.form {
+	margin: 10px;
+	font-size: 1.1em;
+	float: center;
+}
+button {
+	background-color: skyblue;
+	color: black;
+	font-weight: bold;
+	border-radius: 8px;
+}
+*/
